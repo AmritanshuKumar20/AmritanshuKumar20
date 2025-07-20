@@ -18,12 +18,20 @@
 ### 📫 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/2004-amritanshu/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="mailto:amritanshukr2004@gmail.com" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
-</a>
+  <a href="mailto:ronikkumar2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/2004-amritanshu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://github.com/AmritanshuKumar20" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+  
+  </a>
+  <a href="https://amritanshukumar20.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
+  </a>
 </p>
 
 ---
