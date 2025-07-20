@@ -59,6 +59,3 @@
 
 
 
-## 🐍 My GitHub Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/AmritanshuKumar20/AmritanshuKumar20/output/github-contribution-grid-snake.svg)
