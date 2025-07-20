@@ -56,3 +56,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AmritanshuKumar20&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritanshuKumar20&layout=compact&theme=radical" />
 </p>
+
+### 🐍 Watch my contribution graph get eaten by a snake 🐍
+
+![snake gif](https://raw.githubusercontent.com/AmritanshuKumar20/AmritanshuKumar20/output/github-contribution-grid-snake.svg)
+
