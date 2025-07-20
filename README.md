@@ -59,5 +59,7 @@
 
 ### 🐍 Watch my contribution graph get eaten by a snake 🐍
 
-![snake gif](https://raw.githubusercontent.com/AmritanshuKumar20/AmritanshuKumar20/output/github-contribution-grid-snake.svg)
+## 🐍 My GitHub Contribution Snake (Dark)
+
+![snake gif](https://raw.githubusercontent.com/AmritanshuKumar20/AmritanshuKumar20/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
