@@ -57,9 +57,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritanshuKumar20&layout=compact&theme=radical" />
 </p>
 
-### 🐍 Watch my contribution graph get eaten by a snake 🐍
 
-## 🐍 My GitHub Contribution Snake (Dark)
 
-![snake gif](https://raw.githubusercontent.com/AmritanshuKumar20/AmritanshuKumar20/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+## 🐍 My GitHub Contribution Snake
 
+![snake gif](https://raw.githubusercontent.com/AmritanshuKumar20/AmritanshuKumar20/output/github-contribution-grid-snake.svg)
